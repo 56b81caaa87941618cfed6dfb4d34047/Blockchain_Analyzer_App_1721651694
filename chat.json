@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, developing an Ethereum transaction analysis app.",
+        "message_id": "guest22072024124547",
+        "timestamp": "22072024124548",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add an app to analyse new ethereum transactions",
         "message_id": "guest22072024124547",
