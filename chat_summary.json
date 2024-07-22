@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721651695",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the fields home, about and contact",
-        "timestamp": "22072024123533",
-        "message_id": "guest22072024123533"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a sidebar with home, about and contact.",
-        "timestamp": "22072024123539",
-        "message_id": "guest22072024123533"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 265, \"output_token_count\": 85, \"time_taken\": \"0:00:05.733437\"}",
-        "timestamp": "22072024123545",
-        "message_id": "guest22072024123533"
-    },
-    {
         "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"1. Real-time blockchain stats dashboard\", \"checked\": true}, {\"feature\": \"2. User authentication for personalized settings\", \"checked\": false}, {\"feature\": \"3. Dark/Light mode toggle\", \"checked\": true}, {\"feature\": \"4. Interactive blockchain explorer tool\", \"checked\": false}, {\"feature\": \"5. Contact form with CAPTCHA verification\", \"checked\": true}, {\"feature\": \"6. In-app notifications for blockchain updates\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 104, \"time_taken\": \"0:00:14.888821\"}",
-        "timestamp": "22072024123554",
-        "message_id": "guest22072024123533"
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "22072024124505",
-        "message_id": "guest22072024124505"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Certainly, I'll add a sidebar with the navlinks home, about, and contact.",
-        "timestamp": "22072024124506",
-        "message_id": "guest22072024124505"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain data updates toggle in sidebar\", \"checked\": false}, {\"feature\": \"Recent transactions view on home page\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer tool under about section\", \"checked\": false}, {\"feature\": \"Contact form with captcha verification\", \"checked\": true}, {\"feature\": \"Sidebar quick access to user saved blockchain addresses\", \"checked\": false}, {\"feature\": \"Customizable themes for sidebar\", \"checked\": false}], \"input_token_count\": 274, \"output_token_count\": 100, \"time_taken\": \"0:00:05.865314\"}",
-        "timestamp": "22072024124512",
-        "message_id": "guest22072024124505"
-    },
-    {
-        "role": "user",
-        "content": "add an app to analyse new ethereum transactions",
-        "timestamp": "22072024124547",
-        "message_id": "guest22072024124547"
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time notifications for unusual transaction patterns\", \"checked\": true}, {\"feature\": \"Advanced search filters for transactions by value, date, and sender/receiver address\", \"checked\": false}, {\"feature\": \"Graphical visualization of transaction flows over time\", \"checked\": true}, {\"feature\": \"Customizable dashboard for tracking favorite transactions or addresses\", \"checked\": false}, {\"feature\": \"Integration with wallets for direct transaction analysis\", \"checked\": true}, {\"feature\": \"Option to export transaction data in CSV or PDF format\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 117, \"time_taken\": \"0:00:06.633118\"}",
+        "message_id": "guest22072024124547",
+        "timestamp": "22072024124555",
+        "component_file_name": "purple_hero_component_1721651696",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Got it, developing an Ethereum transaction analysis app.",
+        "message_id": "guest22072024124547",
         "timestamp": "22072024124548",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add an app to analyse new ethereum transactions",
+        "message_id": "guest22072024124547",
+        "timestamp": "22072024124547",
+        "component_file_name": "purple_hero_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain data updates toggle in sidebar\", \"checked\": false}, {\"feature\": \"Recent transactions view on home page\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer tool under about section\", \"checked\": false}, {\"feature\": \"Contact form with captcha verification\", \"checked\": true}, {\"feature\": \"Sidebar quick access to user saved blockchain addresses\", \"checked\": false}, {\"feature\": \"Customizable themes for sidebar\", \"checked\": false}], \"input_token_count\": 274, \"output_token_count\": 100, \"time_taken\": \"0:00:05.865314\"}",
+        "message_id": "guest22072024124505",
+        "timestamp": "22072024124512",
+        "component_file_name": "purple_hero_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Certainly, I'll add a sidebar with the navlinks home, about, and contact.",
+        "message_id": "guest22072024124505",
+        "timestamp": "22072024124506",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest22072024124505",
+        "timestamp": "22072024124505",
+        "component_file_name": "purple_hero_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"1. Real-time blockchain stats dashboard\", \"checked\": true}, {\"feature\": \"2. User authentication for personalized settings\", \"checked\": false}, {\"feature\": \"3. Dark/Light mode toggle\", \"checked\": true}, {\"feature\": \"4. Interactive blockchain explorer tool\", \"checked\": false}, {\"feature\": \"5. Contact form with CAPTCHA verification\", \"checked\": true}, {\"feature\": \"6. In-app notifications for blockchain updates\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 104, \"time_taken\": \"0:00:14.888821\"}",
+        "message_id": "guest22072024123533",
+        "timestamp": "22072024123554",
+        "component_file_name": "purple_header_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 265, \"output_token_count\": 85, \"time_taken\": \"0:00:05.733437\"}",
+        "message_id": "guest22072024123533",
+        "timestamp": "22072024123545",
+        "component_file_name": "purple_header_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a sidebar with home, about and contact.",
+        "message_id": "guest22072024123533",
+        "timestamp": "22072024123539",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "message_id": "guest22072024123533",
+        "timestamp": "22072024123533",
+        "component_file_name": "purple_header_component_1721651696",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "22072024124555",
         "message_id": "guest22072024124547"
     }
 ]
